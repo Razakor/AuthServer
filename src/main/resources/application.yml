@@ -1,0 +1,40 @@
+config:
+  oauth2:
+    clientId: razakor
+    clientSecret: razakor@123
+    privateKey: -----BEGIN RSA PRIVATE KEY-----
+      MIIEogIBAAKCAQEAuYptxO/0LqN9JW5UnsVKVEgDKD+4PG+KySn/y4b+9dHkfCp3
+      PwLYZX/DvSlITqnruXvcA+5en+6DGtgtuHONp0P3j18krAujvuMmo8trbiIsu3El
+      XpXz3YlJEmqbKSfMghb69IhJJrjvBeKkxJ6oMP6rHOv9U8MyirIvMEtuV8L3fCij
+      SrBSJcrpNMHwK2SljZpcdxwNSAFRj1Wdyzfmfv1GLOg/5AQxH3iQpWfjEQ5ff1Ue
+      cvg1H99YAHUHX2ZLDi1co7CT3ZsscMaM3sLiBYIgd/fHs7xZWoRJVLmROWil0lOK
+      FsTg3Hr9p1kfjPVlHxqnYVVw/vFDWMPrNNaXRwIDAQABAoIBAElO3owfWtVKl1nA
+      vAJ3ZSTjxwuSEZMfZzCQPZcG4Znyslo01SS6VRHVZ1tIAl/CV3bT71xGRHDgZkCn
+      BXmJfoCGJDwrlWu8tZfoXA3/g5TiP9ZXoDI9ATuY0JxMLr4WEYGc3s7bQjvgeeBT
+      alKddUrWdHla7J650zBlsqtcQl695okVyzOiKpbUT+cWoJykgq+9Q1fGFVmokCAV
+      6YrXiVj8A8VKg5i88zhEO12QvYXHb7kwoA5PrGHmQAz2Chg5Mj9ockczzrQbEJng
+      gERPOFRgn1Jk7hTz9ruU9+5N/ZuhjXQ0fjQlIIGp9/X8nwb0jdG4NIQxGJavIhuL
+      R7HMCZECgYEA88YGrpWDbgZziRzZTAAC5KdqChv7ZZy3kYxy3Apeg2UHEZXRY7RD
+      6zpJna7jYvmXH6zHscS+zEQgdF0Ji7stEXKI/XmgNrzV/6Q1KTndhdo2zF3uu9BV
+      2YX8AMcgdoE6M8QY0xBZDKq23rscec/k2IE86W5S0VpTSnWiNVAc1U0CgYEAwti2
+      VDyB6Zb1ZK/HgTzoyhdTMMBj7lweQHMi4lTl69iFCZxYmKZN2PlWYUIg0HakpyE5
+      tqRNCYmQKpJVzSmjcMS5LQseUwtwAYvhOxoEGcF/7W4+5zXunoWzX5iDdDIW++8+
+      5xtEuzuv+dRJQKTOsqMlMvETiqBof5fr6nqRROMCgYB9+Qh88cCge+76nRDhyGO2
+      W5ldrgYlBW6LZYP5l9YtmmijusMg/gfXKCDgvn69J/Pjp3rur5hVoKMQ3v9O2SQ6
+      DvEh49daUg1YdTgPnNqQECsfQy9amRe0OBv5Hu30r2UvWRfnAlyyQgoMYa8ed8Nv
+      6qFak+tySnYeVVnEqSitRQKBgEBn4AUCJzMuahkJHZozpwM+KIqB3cZpfrpxFIPZ
+      6lJGNNuTaZmzxyHEcXAeqrgdr5lrGyerMafIZ/YafvAdJmBdNpSUC0cKDdEFCsM9
+      e0OEOaQi//nvUtvleABOao1bDUvjrlg4JET7mtSq/je3Anf8A4zOMVZuZXxfnGTa
+      dPBfAoGAOU39CkaprqaVvgTxS+BXGA2tiaN0fLkXyHjeApYeDmsUVHj5KTzJk7P4
+      9Q7h5gSz8mErdiaC2dZD8NTholQ9yflmRDlTaKwcZR4J2i+lNvvA/weIg/iZOcDN
+      K82Op7rHUw31uPI7gJBKHX3qDkezwM96O4zDHplIFqCAeZC3ITM=
+      -----END RSA PRIVATE KEY-----
+    publicKey: -----BEGIN PUBLIC KEY-----
+      MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuYptxO/0LqN9JW5UnsVK
+      VEgDKD+4PG+KySn/y4b+9dHkfCp3PwLYZX/DvSlITqnruXvcA+5en+6DGtgtuHON
+      p0P3j18krAujvuMmo8trbiIsu3ElXpXz3YlJEmqbKSfMghb69IhJJrjvBeKkxJ6o
+      MP6rHOv9U8MyirIvMEtuV8L3fCijSrBSJcrpNMHwK2SljZpcdxwNSAFRj1Wdyzfm
+      fv1GLOg/5AQxH3iQpWfjEQ5ff1Uecvg1H99YAHUHX2ZLDi1co7CT3ZsscMaM3sLi
+      BYIgd/fHs7xZWoRJVLmROWil0lOKFsTg3Hr9p1kfjPVlHxqnYVVw/vFDWMPrNNaX
+      RwIDAQAB
+      -----END PUBLIC KEY-----
