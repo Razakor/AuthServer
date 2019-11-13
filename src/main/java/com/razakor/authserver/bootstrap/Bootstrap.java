@@ -21,11 +21,11 @@ public class Bootstrap implements ApplicationRunner {
     @Override
     public void run(ApplicationArguments args) throws Exception {
 /*
-        UserEntity user = new UserEntity(null, "Razakor", passwordEncoder.encode("pass"), "max@gmail.com", "Max", "Shevchuk");
+        UserEntity user = new UserEntity(null, "Razakor", passwordEncoder.encode("pass"), "m.shevchuk.o@gmail.com", "Max", "Shevchuk");
         user.AddRole("ROLE_USER");
         userService.save(user);
 
- */
+*/
 /*
         User user2 = new User("admin", "password", true);
         user2.AddRole("ROLE_USER");

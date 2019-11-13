@@ -4,5 +4,5 @@ import com.razakor.authserver.documents.UserEntity;
 
 public interface OAuthDAOService {
 
-    public UserEntity getUserDetails(String username);
+    UserEntity getUserDetails(String username);
 }
